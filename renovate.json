@@ -5,7 +5,7 @@
   ],
   "prHeader": "Joy Test Header",
   "assignees": ["joysn"],
-  "labels": "JoyTestLabel",
+  "labels": ["JoyTestLabel"],
   "packageRules": [
     {
       "matchPackagePatterns": ["docker"],
